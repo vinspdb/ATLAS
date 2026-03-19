@@ -1,5 +1,5 @@
 dataset:
-  path: /home/vincenzo/Documenti/outcome_streaming/Tesi-next_activity/src/dataset/csv/helpdesk2.csv
+  path: /home/vincenzo/Documenti/outcome_streaming/Tesi-next_activity/src/dataset/csv/helpdesk.csv
 
 embedded_model:
   model: sentence-transformers/all-roberta-large-v1
