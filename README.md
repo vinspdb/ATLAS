@@ -4,7 +4,7 @@
 
 ---
 
-## Step 1: Run the stream analysis
+## Step 1: Set the event log in config.yaml and run the stream analysis.
 ```
 python -m src.main_atlas_new --config config.yaml --log helpdesk
 ```
